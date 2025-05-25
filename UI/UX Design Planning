@@ -1,0 +1,36 @@
+## 🎨 UI/UX Design Planning
+
+### 🧭 Design Goals
+
+- Create a clean and modern interface inspired by Airbnb.
+- Ensure the layout is responsive and mobile-friendly.
+- Prioritize ease of navigation and quick access to information.
+- Minimize friction during the booking process.
+
+### 🔑 Key Features to Implement
+
+- Search and filter functionality
+- Responsive grid layout for listings
+- High-quality image displays
+- Interactive map integration (optional)
+- Booking form with validation
+- Clear navigation and action buttons
+
+### 📄 Primary Pages Overview
+
+| Page Name                | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| **Property Listing View** | Displays a grid of available properties with basic info like title, price, and image. |
+| **Listing Detailed View** | Shows complete details of a selected listing, including description, amenities, host info, and a large image gallery. |
+| **Simple Checkout View**  | Includes date selection, guest details, and payment input to complete a reservation. |
+
+### 🤝 Importance of User-Friendly Design
+
+A user-friendly design in a booking system:
+
+- Builds trust with visitors through clarity and professionalism.
+- Reduces bounce rate by keeping users engaged.
+- Simplifies complex actions like filtering, selecting dates, and making payments.
+- Improves accessibility for users on different devices and skill levels.
+
+Great UI/UX ensures users can find and book properties effortlessly — just like on the real Airbnb.
